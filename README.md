@@ -1,7 +1,6 @@
 # Hi there, My name is Elias Pinheiro Pereira 👋
 ## Hello Devs !!!
 
-
 <!--
 **eliaspinheiropereira/eliaspinheiropereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - ⚡ Fun fact: ...
@@ -27,7 +26,4 @@
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
                     
-
- DevOps and offensive cyber security
-
 
