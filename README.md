@@ -10,11 +10,11 @@
 
 
 - 🌱 I’m currently learning
-* Html
-* Css
-* JavaScript
-* Java
-* Python
-* Linux
-* React
-* Offensive Cyber Security
+  * Html
+  * Css
+  * JavaScript
+  * Java
+  * Python
+  * Linux
+  * React
+  * Offensive Cyber Security
