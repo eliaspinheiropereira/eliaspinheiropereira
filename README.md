@@ -1,5 +1,7 @@
 # Hi there, My name is Elias Pinheiro Pereira 👋
 ## Hello Devs !!!
+### Graduated in systems analysis and development
+### Postgraduate in Offensive Cyber Security
 
 <!--
 **eliaspinheiropereira/eliaspinheiropereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
