@@ -28,7 +28,8 @@ hi()
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" width="30"/>
 
-##### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
+##### eu amo me conectar com diferentes pessoas, se você deseja dizer um oi, eu vou ficar feliz em conhecer mais voce! :)
+
 
 <a href="mailto:eliaspinheiropereiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/eliaspereiraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
