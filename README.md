@@ -12,9 +12,14 @@ def hi():
 
 hi()
 ~~~
+### Projetos concluídos
+<ul>
+    <li>Desafio Mobile First da Alura - <a href="https://eliaspinheiropereira.github.io/climedproject/">CliMed</a></li>
+    <li>Desafio Desktop da Alura I - <a href="https://eliaspinheiropereira.github.io/optimustech/">Optimus Tech</a></li>
+    <li>Desafio Desktop da Alura II - <a href="https://linkedinproject-nu.vercel.app/">Projeto Linkedin</a></li>
+</ul>
 
-
-- 🌱 I’m currently learning 
+- Estou aprendendo 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" width="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="30" width="30"/>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="30"/>
@@ -25,5 +30,5 @@ hi()
 
 ##### I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :) 
 
-<a href="mailto:eliaspinheiropereiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="mailto:eliaspinheiropereiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
 <a href="https://linkedin.com/in/eliaspereiraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
