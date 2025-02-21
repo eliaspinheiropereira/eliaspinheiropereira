@@ -4,13 +4,13 @@
 ~~~
 #!/usr/bin/python
 
-name = "Elias Pinheiro Pereira"
-profession = systems analyst
+nome = "Elias Pinheiro Pereira"
+profissao = "Analista de Sistemas"
 
-def hi():
-    print(f'hello there, my name is {name} and I am trained in {profession}'
+def ola():
+    print(f'oi tudo bem, me chamo {nome} e sou {profissao}'
 
-hi()
+ola()
 ~~~
 ### Projetos concluídos
 <ul>
