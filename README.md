@@ -12,7 +12,7 @@ def ola():
 
 ola()
 ~~~
-### Projetos concluídos
+### Projetos html e css concluídos
 <ul>
     <li>Desafio Mobile First da Alura - <a href="https://eliaspinheiropereira.github.io/climedproject/">CliMed</a></li>
     <li>Desafio Desktop da Alura I - <a href="https://eliaspinheiropereira.github.io/optimustech/">Optimus Tech</a></li>
