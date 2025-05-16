@@ -16,7 +16,7 @@ ola()
 <ul>
     <li>Desafio Mobile First da Alura - <a href="https://eliaspinheiropereira.github.io/climedproject/">CliMed</a></li>
     <li>Desafio Desktop da Alura I - <a href="https://eliaspinheiropereira.github.io/optimustech/">Optimus Tech</a></li>
-    <li>Desafio Desktop da Alura II - <a href="https://linkedinproject-nu.vercel.app/">Projeto Linkedin</a></li>
+    <li>Desafio Desktop da Alura II - <a href="https://projetolinkedin.vercel.app/">Projeto Linkedin</a></li>
     <li>Desafio Desktop da Alura III - <a href="https://projetonetflix-psi.vercel.app/">Projeto NetFlix</a></li>
     <li>Desafio Desktop da SerFrontEnd - <a href="https://moda-ora-mu.vercel.app/">Projeto modaOra</a></li>
     <li>Desafio Desktop da SerFrontEnd - <a href="https://aprenser-tawny.vercel.app/">Projeto aprenser</a></li>
