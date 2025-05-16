@@ -22,14 +22,6 @@ ola()
     <li>Desafio Desktop da SerFrontEnd - <a href="https://aprenser-tawny.vercel.app/">Projeto aprenser</a></li>
 </ul>
 
-- Estou aprendendo 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" width="30"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="30" width="30"/>
 
 ##### eu amo me conectar com diferentes pessoas, se você deseja dizer um oi, eu vou ficar feliz em conhecer mais voce! :)
 
