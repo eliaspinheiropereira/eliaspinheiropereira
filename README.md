@@ -1,26 +1,21 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+Olá! 👋 Sou Elias Pinheiro Pereira, Analista de Sistemas com Foco em Back-end Java
 
-~~~
-#!/usr/bin/python
+Sou um profissional apaixonado por construir soluções robustas e eficientes para o back-end, com uma forte base em Java e no ecossistema Spring Boot.
 
-nome = "Elias Pinheiro Pereira"
-profissao = "Analista de Sistemas"
+🛠️ Tecnologias e Ferramentas que utilizo:
+Linguagens: Java
+Frameworks: Spring Boot, Spring Framework (MVC, Data JPA, Security, etc.)
+Bancos de Dados: MySQL, MongoDB
+Outras Ferramentas: Git, Maven/Gradle, Docker.
 
-def ola():
-    print(f'oi tudo bem, me chamo {nome} e sou {profissao}'
+🌱 No que estou trabalhando e aprendendo atualmente:
+<a href="https://github.com/eliaspinheiropereira/foodtechproject">API projeto foodtech</a>
+<a href="https://github.com/eliaspinheiropereira/libraryproject">API projeto library</a>
 
-ola()
-~~~
-### Projetos Back End Java.
-<ul>
-    <li><a href="https://github.com/eliaspinheiropereira/foodtechproject">Projeto API foodtech</a></li>
-    <li><a href="https://github.com/eliaspinheiropereira/libraryproject">Projeto API library</a></li>
-</ul>
+🔭 O que você encontrará por aqui:
+Projetos pessoais e de estudo em Java/Spring Boot.
+Demonstrações de conceitos e tecnologias back-end.
 
-
-##### eu amo me conectar com diferentes pessoas, se você deseja dizer um oi, eu vou ficar feliz em conhecer mais voce! :)
-
-
-<a href="mailto:eliaspinheiropereiraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
-<a href="https://linkedin.com/in/eliaspereiraa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+🤝 Vamos nos conectar!
+<a href="www.linkedin.com/in/eliaspereiraa">Linkedin</a>
+Sinta-se à vontade para explorar meus repositórios e entrar em contato! 😊
