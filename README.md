@@ -11,8 +11,7 @@ Sou um profissional apaixonado por construir soluções robustas e eficientes pa
 
 ## 🌱 No que estou trabalhando e aprendendo atualmente:
 <ul>
-  <li><a href="https://github.com/eliaspinheiropereira/foodtechproject">API projeto foodtech</a></li>
-  <li><a href="https://github.com/eliaspinheiropereira/libraryproject">API projeto library</a></li>
+  <li><a href="https://github.com/FIAP-Pos-Java/foodtech">API projeto foodtech - Pós Graduação FIAP</a></li>
 </ul>
 
 ## 🔭 O que você encontrará por aqui:
