@@ -1,11 +1,15 @@
-Olá! 👋 Sou Elias Pinheiro Pereira, Analista de Sistemas com Foco em Back-end Java
-Sou um profissional apaixonado por construir soluções robustas e eficientes para o back-end, com uma forte base em Java e no ecossistema Spring Boot.
+Sou um profissional em transição de carreira, atualmente focado no desenvolvimento backend com ênfase na linguagem Java e suas principais tecnologias. Tenho me dedicado a uma formação técnica sólida por meio de cursos especializados em Java Orientado a Objetos, Spring Boot, Clean Code, testes unitários com JUnit e Mockito, além de bancos de dados relacionais (SQL) e não relacionais (NoSQL). Meu perfil autodidata e disciplinado tem me permitido avançar rapidamente na área, sempre com foco em qualidade de código, boas práticas e soluções escaláveis.
 
 ## 🛠️ Tecnologias e Ferramentas que utilizo:
 <ul>
-  <li>Linguagens: Java</li>
-  <li>Frameworks: Spring Boot, Spring Framework (MVC, Data JPA, Security, etc.)</li>
-  <li>Bancos de Dados: MySQL, MongoDB</li>
+  <li>Java OO</li>
+  <li>Spring boot expert, jpa, rest, jwt, docker, aws</li>
+  <li>SOLID</li>
+  <li>Clean Architecture</li>
+  <li>Java unit testing com spring boot, tdd, junit5, mockito</li>
+  <li>Microserviços com java, spring boot e spring cloud</li>
+  <li>Padrões de projeto na prática</li>
+  <li>MySQL, MongoDB</li>
   <li>Outras Ferramentas: Git, Docker.</li>
 </ul>
 
