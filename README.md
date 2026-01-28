@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Olá, eu sou Elias Pereira
 
-<!--
-**eliaspinheiropereira/eliaspinheiropereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕ **Desenvolvedor Java Backend Jr.**  
+🎓 **Graduado em Análise e Desenvolvimento de Sistemas** — Faci Wyden  
+🎓 **Pós-graduando em Arquitetura e Desenvolvimento em Java** — FIAP  
 
-Here are some ideas to get you started:
+Sou desenvolvedor backend com foco no ecossistema **Java e Spring**, interessado em arquitetura de software, testes automatizados e boas práticas. Busco evoluir continuamente criando soluções limpas, bem estruturadas e escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+### 💻 Linguagem & Fundamentos
+- Java  
+- Programação Orientada a Objetos (POO)
+
+### 🧪 Testes
+- JUnit  
+- Mockito  
+- Hamcrest  
+- Testes unitários e de integração  
+
+### 🧩 Arquitetura & Boas Práticas
+- Design Patterns  
+- Princípios SOLID  
+- Clean Code  
+
+### 🌱 Spring Framework
+- Spring Boot  
+- Spring Web  
+- Spring Data JPA  
+- Spring Security  
+- Spring Validation  
+- Spring Test  
+
+### ⚙️ Infraestrutura & DevOps
+- Docker  
+- AWS  
+- RabbitMQ  
+- Linux  
+
+### 🔧 Versionamento
+- Git  
+- GitHub  
+
+---
+
+## 🏗️ O que você vai encontrar aqui
+- Projetos em **Java e Spring Boot**
+- Exemplos de **arquitetura bem definida**
+- Aplicações com **testes automatizados**
+- Uso de **mensageria com RabbitMQ**
+- Projetos **containerizados com Docker**
+- Boas práticas aplicadas no dia a dia
+
+---
+
+## 📌 Em constante evolução
+Atualmente aprofundando estudos em:
+- Arquitetura de software
+- Microsserviços
+- Integrações com AWS
+- Mensageria e sistemas distribuídos
+
+---
+
+## 📫 Vamos conversar?
+🔗 **LinkedIn**: [linkedin.com/in/eliaspereiraa](http://www.linkedin.com/in/eliaspereiraa)
