@@ -45,22 +45,9 @@ Sou desenvolvedor backend com foco no ecossistema **Java e Spring**, interessado
 
 ---
 
-## 🏗️ O que você vai encontrar aqui
-- Projetos em **Java e Spring Boot**
-- Exemplos de **arquitetura bem definida**
-- Aplicações com **testes automatizados**
-- Uso de **mensageria com RabbitMQ**
-- Projetos **containerizados com Docker**
-- Boas práticas aplicadas no dia a dia
-
----
-
-## 📌 Em constante evolução
-Atualmente aprofundando estudos em:
-- Arquitetura de software
-- Microsserviços
-- Integrações com AWS
-- Mensageria e sistemas distribuídos
+## 🏗️ Projetos
+- Pós Graduação FIAP - FoodTech: [https://github.com/FIAP-Pos-Java/foodtech](https://github.com/FIAP-Pos-Java/foodtech) 
+- Pós Graduação FIAP - MsMedTech: [https://github.com/FIAP-Pos-Java/ms-medtech](https://github.com/FIAP-Pos-Java/ms-medtech)
 
 ---
 
