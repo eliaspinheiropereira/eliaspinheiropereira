@@ -2,7 +2,7 @@
 
 ☕ **Desenvolvedor Java Backend Jr.**  
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** — Faci Wyden  
-🎓 **Pós-graduando em Arquitetura e Desenvolvimento em Java** — FIAP  
+🎓 **Pós-graduado em Arquitetura e Desenvolvimento em Java** — FIAP  
 
 Sou desenvolvedor backend com foco no ecossistema **Java e Spring**, interessado em arquitetura de software, testes automatizados e boas práticas. Busco evoluir continuamente criando soluções limpas, bem estruturadas e escaláveis.
 
