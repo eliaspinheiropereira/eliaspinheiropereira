@@ -48,6 +48,7 @@ Sou desenvolvedor backend com foco no ecossistema **Java e Spring**, interessado
 ## 🏗️ Projetos
 - Pós Graduação FIAP - FoodTech: [https://github.com/FIAP-Pos-Java/foodtech](https://github.com/FIAP-Pos-Java/foodtech) 
 - Pós Graduação FIAP - MsMedTech: [https://github.com/FIAP-Pos-Java/ms-medtech](https://github.com/FIAP-Pos-Java/ms-medtech)
+- Projeto Pessoal - botportalservidorpa: [https://github.com/eliaspinheiropereira/botportalservidorpa](https://github.com/eliaspinheiropereira/botportalservidorpa)
 
 ---
 
