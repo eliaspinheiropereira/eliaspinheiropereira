@@ -1,47 +1,12 @@
 # 👋 Olá, eu sou Elias Pereira
 
-☕ **Desenvolvedor Java Backend Jr.**  
+☕ **Programador Java**  
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** — Faci Wyden  
 🎓 **Pós-graduado em Arquitetura e Desenvolvimento em Java** — FIAP  
 
-Sou desenvolvedor backend com foco no ecossistema **Java e Spring**, interessado em arquitetura de software, testes automatizados e boas práticas. Busco evoluir continuamente criando soluções limpas, bem estruturadas e escaláveis.
-
----
-
-## 🚀 Tecnologias & Ferramentas
-
-### 💻 Linguagem & Fundamentos
-- Java  
-- Programação Orientada a Objetos (POO)
-
-### 🧪 Testes
-- JUnit  
-- Mockito  
-- Hamcrest  
-- Testes unitários e de integração  
-
-### 🧩 Arquitetura & Boas Práticas
-- Design Patterns  
-- Princípios SOLID  
-- Clean Code  
-
-### 🌱 Spring Framework
-- Spring Boot  
-- Spring Web  
-- Spring Data JPA  
-- Spring Security  
-- Spring Validation  
-- Spring Test  
-
-### ⚙️ Infraestrutura & DevOps
-- Docker  
-- AWS  
-- RabbitMQ  
-- Linux  
-
-### 🔧 Versionamento
-- Git  
-- GitHub  
+- Técnicas: Java, Spring Boot, Spring Security, Spring Data, Spring Validation, Spring Web, Spring Test, APIs REST,
+Microsserviços, JWT, JPA, Hibernate, JUnit, Git, GitHub, Maven, Docker, RabbitMQ, Angular, Mysql, PostGreSQL.
+- Idiomas: Português (Nativo), Inglês para leitura (intermediário), Inglês para conversação (básico).
 
 ---
 
