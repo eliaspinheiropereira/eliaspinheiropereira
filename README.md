@@ -5,6 +5,7 @@
 🎓 **Pós-graduado em Arquitetura e Desenvolvimento em Java** — FIAP  
 
 - Java
+- Quarkus
 - SOLID
 - Design Pattern
 - Spring Boot
