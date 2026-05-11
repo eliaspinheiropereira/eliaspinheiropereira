@@ -4,9 +4,21 @@
 🎓 **Graduado em Análise e Desenvolvimento de Sistemas** — Faci Wyden  
 🎓 **Pós-graduado em Arquitetura e Desenvolvimento em Java** — FIAP  
 
-- Técnicas: Java, Spring Boot, Spring Security, Spring Data, Spring Validation, Spring Web, Spring Test, APIs REST,
-Microsserviços, JWT, JPA, Hibernate, JUnit, Git, GitHub, Maven, Docker, RabbitMQ, Angular, Mysql, PostGreSQL.
-- Idiomas: Português (Nativo), Inglês para leitura (intermediário), Inglês para conversação (básico).
+- Java
+- SOLID
+- Design Pattern
+- Spring Boot
+- Clean Architecture
+- JUnit
+- APIs REST
+- AWS
+- JWT
+- JPA
+- Hibernate
+- Git, GitHub, GitHub Actions
+- Kubernetes, Docker
+- RabbitMQ, Kafka
+- Mysql, PostgreSQL, MongoDB, Redis
 
 ---
 
