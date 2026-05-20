@@ -6,7 +6,7 @@ Minha missão é escrever código limpo, eficiente e que faça sentido tanto par
 
 ## 🚀 Tecnologias que me movem
 - ☕ **Java** (Spring Boot, Quarkus)
-- 🗄️ **Banco de Dados** (PostgreSQL, MongoDB, Redis)
+- 🗄️ **Banco de Dados** (PostgreSQL, MySQL, MongoDB)
 - 🔧 **Ferramentas** (Docker, Kubernetes, GitHub Actions, Junit, RabbitMQ, Kafka)
 - ☁️ **Cloud** (AWS, Azure)
 
