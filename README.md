@@ -17,6 +17,7 @@ Minha missão é escrever código limpo, eficiente e que faça sentido tanto par
 - [botportalservidorpa] [Automação para baixar documentos e informações do Portal do Servidor do Pará, facilitando acesso rápido e organizado.](https://github.com/eliaspinheiropereira/portaldoservidorpabotdownloader)
 - [Security banco] [Exemplo prático de autenticação com Spring Security, utilizando usuários armazenados em banco de dados para controle de acesso seguro.](https://github.com/eliaspinheiropereira/segurancabancodedadoslocal)
 - [Prod CleanArch API] [Exemplo de aplicação backend em Java utilizando Clean Architecture, com foco em separação de responsabilidades, manutenibilidade e escalabilidade.](https://github.com/eliaspinheiropereira/prod-cleanarch-api)
+- [Copilot API] [Exemplo de desenvolvimento de uma api apenas com suporte de uma IA.](https://github.com/eliaspinheiropereira/curso-desenvolvimentocomia))
 
 
 ## 🎯 Filosofia de Código
